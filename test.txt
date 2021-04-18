@@ -4,3 +4,4 @@ Git has a mutable index called stage
 dev.test
 master.test
 1234
+last.test
